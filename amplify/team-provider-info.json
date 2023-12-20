@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-adventofcode2023-dev-101232-authRole",
+      "UnauthRoleArn": "arn:aws:iam::671886948729:role/amplify-adventofcode2023-dev-101232-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::671886948729:role/amplify-adventofcode2023-dev-101232-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-adventofcode2023-dev-101232-deployment",
+      "UnauthRoleName": "amplify-adventofcode2023-dev-101232-unauthRole",
+      "StackName": "amplify-adventofcode2023-dev-101232",
+      "StackId": "arn:aws:cloudformation:eu-north-1:671886948729:stack/amplify-adventofcode2023-dev-101232/14d948a0-9b2a-11ee-b373-0ea78ca3d538",
+      "AmplifyAppId": "d343ed7yy20xq6"
+    }
+  }
+}

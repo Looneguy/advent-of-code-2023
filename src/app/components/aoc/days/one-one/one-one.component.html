@@ -1,0 +1,7 @@
+<p>{{name}}</p>
+<div *ngIf="result > 0; else noResultBlock">
+    <p>
+        {{result}}
+    </p>
+</div>
+<ng-template #noResultBlock>Result is being calculated</ng-template>
